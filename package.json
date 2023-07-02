@@ -29,6 +29,7 @@
 	"engines": {
 		"vscode": "^1.79.0"
 	},
+	"icon": "codeNatureIcon.png",
 	"categories": [
 		"Themes"
 	],
