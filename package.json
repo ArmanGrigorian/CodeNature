@@ -1,26 +1,44 @@
 {
-  "name": "CodeNature",
-  "displayName": "CodeNature",
-  "description": "Theme is importanat. At first glance, it may seem that these are just shades. But every programmer knows how important the right choice of shades is. Properly selected colors help a lot during work, making it comfortable and beautiful.",
-  "version": "1.0.0",
-  "publisher": "ArmanGrigorian",
-  "repository": {
-    "type": "git",
-    "url": ""
-  },
-  "engines": {
-    "vscode": "^1.79.0"
-  },
-  "categories": [
-    "Themes"
+	"name": "CodeNature",
+	"displayName": "CodeNature",
+	"description": "Theme is importanat. At first glance, it may seem that these are just shades. But every programmer knows how important the right choice of shades is. Properly selected colors help a lot during work, making it comfortable and beautiful.",
+	"version": "1.0.0",
+	"publisher": "ArmanGrigorian",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ArmanGrigorian/CodeNature"
+	},
+  "keywords": [
+    "codeNature",
+    "codenature",
+    "code nature",
+    "CODE NATURE",
+    "CODENATURE",
+    "CODE NATURE",
+    "ArmanGrigorian",
+    "Arman Grigorian",
+    "arman grigorian",
+    "armangrigorian",
+    "armanGrigorian",
+    "Armangrigorian",
+    "THEME",
+    "DARK THEME",
+    "theme",
+    "dark theme"
   ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "CodeNature",
-        "uiTheme": "vs-dark",
-        "path": "./themes/CodeNature-color-theme.json"
-      }
-    ]
-  }
+	"engines": {
+		"vscode": "^1.79.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "CodeNature",
+				"uiTheme": "vs-dark",
+				"path": "./themes/CodeNature-color-theme.json"
+			}
+		]
+	}
 }
