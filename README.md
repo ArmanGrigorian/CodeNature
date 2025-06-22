@@ -40,3 +40,7 @@ At first glance, it may seem that themes are just about colors — but every pro
 1. Open **Extensions** in VS Code
 2. Search for **Code Nature**
 3. Click **Install**
+
+
+```bash
+code --install-extension codeNature-1.0.3.vsix
