@@ -1,30 +1,29 @@
 {
 	"name": "CodeNature",
 	"displayName": "CodeNature",
-	"description": "A theme is important. At first glance, it may seem that these are just shades. But every programmer knows how important the right choice of shades is. Properly selected colors help a lot during work, making it comfortable and beautiful.",
-	"version": "1.0.0",
+	"description": "CodeNature is a thoughtfully crafted dark theme for Visual Studio Code, designed to reduce eye strain and enhance focus. With a carefully balanced color palette, it offers an aesthetic yet practical coding experience. Whether you're working day or night, CodeNature keeps your environment clean, calm, and readable—helping you code more comfortably and beautifully.",
+	"version": "1.0.3",
 	"publisher": "ArmanGrigorian",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/ArmanGrigorian/CodeNature"
 	},
+	"bugs": {
+		"url": "https://github.com/ArmanGrigorian/CodeNature/issues"
+	},
+	"homepage": "https://github.com/ArmanGrigorian/CodeNature",
 	"keywords": [
 		"codeNature",
-		"codenature",
-		"code nature",
-		"CODE NATURE",
-		"CODENATURE",
-		"CODE NATURE",
-		"ArmanGrigorian",
-		"Arman Grigorian",
+		"codenature theme",
 		"arman grigorian",
-		"armangrigorian",
-		"armanGrigorian",
-		"Armangrigorian",
-		"THEME",
-		"DARK THEME",
-		"theme",
-		"dark theme"
+		"dark theme",
+		"vscode theme",
+		"developer theme",
+		"color scheme",
+		"dark ui",
+		"syntax highlighting",
+		"minimal theme",
+		"aesthetic coding"
 	],
 	"engines": {
 		"vscode": "^1.79.0"
